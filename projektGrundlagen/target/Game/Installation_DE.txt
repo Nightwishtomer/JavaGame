@@ -1,0 +1,15 @@
+Installieren Sie das JavaFX SDK in Version 21. Am besten in den Ordner C:\javafx-sdk-21\lib.
+Falls Sie es in einen anderen Ordner installiert haben, öffnen Sie die Datei Game.bat in einem Texteditor.
+Ändern Sie die Zeile:
+
+    set JAVAFX_PATH="C:\javafx-sdk-21\lib"
+auf 
+    set JAVAFX_PATH="__YOUR_PATH_TO_THE_JAVAFX_LIBRARY__"
+
+Danach starten Sie Game.bat.
+
+
+https://openjfx.io/   - JavaFX
+
+
+Alle Fragen und Wünsche bitte an diakonovtomerde@gmail.com senden.
